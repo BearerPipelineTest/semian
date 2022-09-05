@@ -14,7 +14,7 @@ group :test do
   gem "rake-compiler"
   gem "rake"
   gem "hiredis-client"
-  gem "redis", "~> 4.8"
+  gem "redis", "~> 5.0"
   gem "timecop"
   gem "toxiproxy"
   gem "webrick"
