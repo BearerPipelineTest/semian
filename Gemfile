@@ -6,7 +6,7 @@ gem "rake"
 
 group :test do
   gem "benchmark-memory"
-  gem "grpc", "1.46.3"
+  gem "grpc", "1.51.0"
   gem "hiredis", "~> 0.6"
   gem "memory_profiler"
   gem "minitest"
